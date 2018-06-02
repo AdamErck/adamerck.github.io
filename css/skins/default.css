@@ -1,8 +1,10 @@
 /*
    color:#6772e5 -- mor
-   color:#24b47e veya #3ecf8e -- yeþil gibi
-   color:#32325d kapalý mor içinde #9cdbff
-   color:#b76ac4 -- açýk mor
+   color:#24b47e veya #3ecf8e -- yeï¿½il gibi
+   color:#32325d kapalï¿½ mor iï¿½inde #9cdbff
+   color:#b76ac4 -- aï¿½ï¿½k mor
+
+old skin color: #00bc87
 
    #19a9e5
    base color: #75d380
@@ -86,19 +88,19 @@ footer.footer-emel #newsletterForm .btn,
 .sidebar .list-group-item.list-toggle > a:hover,
 footer.footer-pompis a:hover,
 .pricing-column h3,
-.owl-carousel.show-nav-title .owl-nav [class*="owl-"]:hover, 
+.owl-carousel.show-nav-title .owl-nav [class*="owl-"]:hover,
 .owl-carousel.show-nav-title .owl-nav [class*="owl-"].hover,
 .owl-carousel.show-nav-title .owl-nav [class*="owl-"],
 .v_blog-item-title:hover{
-   color: #00bc87;
+   color: #ed1c24;
 }
 .counters-emel.counters .counter span.text.primary-color {
-   color: #00bc87!important;
+   color: #ed1c24 !important;
 }
 
 .btn.transparent-light:hover,
 .btn.transparent-dark:hover {
-   color: #00bc87 !important;
+   color: #ed1c24 !important;
 }
 
 .page-item.active .page-link,
@@ -142,7 +144,7 @@ testimonial-two,
 .exp-separator,
 .testimonial-two,
 .exp-separator-inner {
-   border-color: #00bc87;
+   border-color: #ed1c24;
 }
 
 html .cta.featured.featured-primary,
@@ -155,7 +157,7 @@ html .cta.featured.featured-primary,
 sup.new-badge:before,
 .feature-box[class*="feature-box-secundary-"] .v-icon:after,
 .testimonials.testimonials-primary-color li.testimonial.has-cite .testimonial-text::after {
-   border-top-color: #00bc87;
+   border-top-color: #ed1c24;
 }
 
 .feature-box[class*="feature-box-secundary-"] .v-icon:after,
@@ -163,12 +165,12 @@ sup.new-badge:before,
 .call-to-action.left-bordered,
 .custom-timeline .custom-timeline-box:after,
 .cta.pompis-style h3 {
-   border-left-color: #00bc87;
+   border-left-color: #ed1c24;
 }
 
 .testimonial-four blockquote:hover::after,
 .section-arrow-primary-color.section-arrow--bottom-center:after {
-   border-right-color: #00bc87;
+   border-right-color: #ed1c24;
 }
 
 section.fx--y aside.guide .cover,
@@ -258,20 +260,20 @@ span.dropcap4,
 .horizontal-break-two,
 .owl-carousel .owl-nav [class*="owl-"],
 .pricing--rabten .pricing__action{
-   background-color: #00bc87;
+   background-color: #ed1c24;
 }
 
 .btn.btn-outline-primary:hover,
 .bg-primary {
-   background-color: #00bc87 !important;
+   background-color: #ed1c24 !important;
 }
 
 .blockquote-primary {
-   border-color: #00bc87 !important;
+   border-color: #ed1c24 !important;
 }
 
 .testimonials-tab .nav.nav-justified > li > a > img {
-   box-shadow: 0 0 0 5px #00bc87;
+   box-shadow: 0 0 0 5px #ed1c24;
 }
 
 .special-heading.word-underline span,
@@ -285,7 +287,7 @@ nav.xsearch-navbar.navbar-light .navbar-nav .active > .nav-link,
 .blog-item .read-more-button:hover,
 .testimonial-four blockquote:hover::after,
 .section-arrow-primary-color.section-arrow--bottom-center:after {
-   border-bottom-color: #00bc87;
+   border-bottom-color: #ed1c24;
 }
 
 .process-step .process-step-step .process-step-stepnum,
@@ -411,7 +413,7 @@ b, strong {
 ul.comments .comment-block .comment-by{
    font-family:'Cabin';
 }
- 
+
 footer.footer-pompis .title,
 .pricing__action,
 .btn {
