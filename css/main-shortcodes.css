@@ -5,7 +5,7 @@
     font-size: 30px;
     font-size: 25px;
     margin-bottom: 15px;
-    border: 1px solid #00bc87;
+    border: 1px solid #ed1c24;
     color: white;
     border-radius: 50%;
     text-align: center;
@@ -1652,7 +1652,7 @@ margin-top: 10px;
 }
 
 .cta.pompis-style h3 {
-    border-left: 3px solid #00bc87;
+    border-left: 3px solid #ed1c24;
     padding-left: 25px;
     font-size: 22px;
     font-weight: 300;
@@ -1908,7 +1908,7 @@ html .cta.cta-light p {
     position: initial;
     height: 0px;
     border-top: 0px solid rgba(207,215,223,.25);
-    border-bottom: 4px solid #00bc87;
+    border-bottom: 4px solid #ed1c24;
     display: block;
     width: 25px;
     margin-top: 10px;
@@ -1937,7 +1937,7 @@ html .cta.cta-light p {
 
 .special-heading.word-underline span {
     padding-bottom: 10px;
-    border-bottom: 2px solid #00bc87;
+    border-bottom: 2px solid #ed1c24;
 }
 
 .special-heading.word-underline h4 span {
@@ -1967,7 +1967,7 @@ html .cta.cta-light p {
 
 .special-heading.word-underline-2 span {
     padding-bottom: 10px;
-    border-bottom: 2px solid #00bc87;
+    border-bottom: 2px solid #ed1c24;
 }
 
 .special-heading.word-underline-2 h4 span {
@@ -2268,7 +2268,7 @@ code {
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-    border-color: #00bc87;
+    border-color: #ed1c24;
 }
 
 .thumbnail .caption {
@@ -2382,7 +2382,7 @@ a.thumbnail.active {
     display: inline-block;
     vertical-align: 1px;
     font-weight: 300;
-    color: #00bc87;
+    color: #ed1c24;
     line-height: inherit;
     margin: 0;
     margin-left: 5px;
@@ -2451,7 +2451,7 @@ a.thumbnail.active {
 .counters-emel.counters .counter .counter-icon.top-icon {
     margin-bottom: 25px;
     font-size: 60px;
-    color: #00bc87;
+    color: #ed1c24;
 }
 
 
@@ -2832,7 +2832,7 @@ blockquote.pullquote > p:first-of-type:after {
 
 .testimonial-two {
     padding: 20px;
-    border: 2px solid #00bc87;
+    border: 2px solid #ed1c24;
     border-radius: 2px;
 }
 
@@ -2840,7 +2840,7 @@ blockquote.pullquote > p:first-of-type:after {
 .testimonial-two blockquote p:before {
     font-family: 'Playfair Display';
     font-size: 54px;
-    color: #00bc87;
+    color: #ed1c24;
     font-weight: 900;
     left: 10px;
     color: #FFF;
@@ -2855,7 +2855,7 @@ blockquote.pullquote > p:first-of-type:after {
 .testimonial-two blockquote p:after {
     font-family: 'Playfair Display';
     font-size: 54px;
-    color: #00bc87;
+    color: #ed1c24;
     content: "”";
     font-size: 80px;
     font-style: normal;
@@ -2877,7 +2877,7 @@ blockquote.pullquote > p:first-of-type:after {
 
 .testimonial-two blockquote p:before,
 .testimonial-two blockquote p:after {
-    color: #00bc87;
+    color: #ed1c24;
     font-weight: 900;
 }
 
@@ -2934,12 +2934,12 @@ blockquote.pullquote > p:first-of-type:after {
 
 .testimonial-two .owl-carousel .owl-dots .owl-dot.active span, 
 .testimonial-two .owl-carousel .owl-dots .owl-dot:hover span {
-       border-color: #00bc87;
+       border-color: #ed1c24;
 }
 
 .testimonial-two .owl-carousel .owl-dots .owl-dot.active span:before, 
 .testimonial-two .owl-carousel .owl-dots .owl-dot:hover span:before {
-    background-color: #00bc87;
+    background-color: #ed1c24;
 }
 
 
@@ -3084,12 +3084,12 @@ blockquote.pullquote > p:first-of-type:after {
 }
 
 .testimonial-four blockquote:hover::after {
-   border-right: 2px solid #00bc87;
-   border-bottom: 2px solid #00bc87;
+   border-right: 2px solid #ed1c24;
+   border-bottom: 2px solid #ed1c24;
 }
 
 .testimonial-four blockquote:hover {
-   border: 2px solid #00bc87;
+   border: 2px solid #ed1c24;
 }
 
 
@@ -3735,9 +3735,9 @@ blockquote.pullquote > p:first-of-type:after {
 }
 
 .section-arrow-primary-color.section-arrow--bottom-center:after {
-   background-color: #00bc87;
-   border-right-color: #00bc87;
-   border-bottom-color: #00bc87;
+   background-color: #ed1c24;
+   border-right-color: #ed1c24;
+   border-bottom-color: #ed1c24;
 }
 
 .section-arrow--bottom-left:after {
@@ -3938,7 +3938,7 @@ blockquote.pullquote > p:first-of-type:after {
 }
 
 .tab-wrap .nav-tabs li .nav-link.active span:after {
-    background-color: #00bc87;
+    background-color: #ed1c24;
     width: 100%;
 }
 
@@ -4549,9 +4549,9 @@ blockquote.v3 cite {
 }
 
 .custom-timeline .custom-timeline-box:before {
-    background: none repeat scroll 0 0 #00bc87;
+    background: none repeat scroll 0 0 #ed1c24;
     border-radius: 50%;
-    box-shadow: 0 0 0 3px #FFF, 0 0 0 6px #00bc87;
+    box-shadow: 0 0 0 3px #FFF, 0 0 0 6px #ed1c24;
     content: "";
     display: block;
     height: 6px;
@@ -4614,9 +4614,9 @@ blockquote.v3 cite {
 }
 
 .timeline.v2:after {
-    background: none repeat scroll 0 0 #00bc87;
+    background: none repeat scroll 0 0 #ed1c24;
     border-radius: 50%;
-    box-shadow: 0 0 0 3px #FFF, 0 0 0 6px #00bc87;
+    box-shadow: 0 0 0 3px #FFF, 0 0 0 6px #ed1c24;
     content: "";
     display: block;
     height: 6px;
@@ -5266,7 +5266,7 @@ table.clients-wrap.v4 td:hover {
 .process-step .process-step-step .progress .progress-bar {
    width: 0px;
    box-shadow: none;
-   background: #00bc87;
+   background: #ed1c24;
    opacity: 0.6;
 }
 
@@ -6275,7 +6275,7 @@ table.clients-wrap.v4 td:hover {
 }
 
 .v-counter .count-divider span {
-    background: #00bc87;
+    background: #ed1c24;
     width: 0px;
     height: 3px;
     display: inline-block;
@@ -7381,7 +7381,7 @@ body:not(.device-touch) .social-icon i {
 }
 
 .v-heading-v2 h2, .v-heading-v2 h3, .v-heading-v2 h4 {
-    border-bottom-color: #00bc87;
+    border-bottom-color: #ed1c24;
 }
 
 .v-search-result-count {
@@ -7429,7 +7429,7 @@ body:not(.device-touch) .social-icon i {
 
 .sort-source.nav-pills .nav-item.active .nav-link,
 .sort-source.nav-pills .nav-link.active {
-    color: #00bc87;
+    color: #ed1c24;
     cursor: default;
     /*background-color: #fafafa;*/
 }
