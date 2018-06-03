@@ -253,6 +253,7 @@
    <script src="{{site.baseurl}}/vendor/wow/wow.min.js"></script>
    <script src="{{site.baseurl}}/vendor/lite-tooltip/js/litetooltip.js"></script>
    <script src="{{site.baseurl}}/js/theme-plugins.js"></script>
+   <script src="{{site.baseurl}}/js/portfolio.js"></script>
 
    <!-- Current Page Vendor and Views -->
    <script src="{{site.baseurl}}/vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
@@ -267,5 +268,25 @@
    <!-- Style Swicher -->
    <!-- <script src="vendor/style-switcher/style.switcher.js" id="styleSwitcherScript" data-base-path="" data-skin-src=""></script> -->
    <!-- <script src="vendor/style-switcher/style.switcher.localstorage.js"></script> -->
+
+   <!-- Master Slider JS -->
+   <script src="sliders/master-slider/classic-sliders/masterslider/masterslider.min.js"></script>
+   <script type="text/javascript">
+
+      var slider = new MasterSlider();
+      slider.setup('masterslider', {
+         width: 1150,
+         height: 500,
+         space: 10,
+         preload: 3,
+         view: 'basic'
+      });
+      slider.control('arrows');
+
+      var gallery = new MSGallery('ms-gallery-1', slider);
+      gallery.setup();
+
+   </script>
+
 </body>
 </html>
